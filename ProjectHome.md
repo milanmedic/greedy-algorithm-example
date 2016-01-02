@@ -1,0 +1,1 @@
+This is a Matlab/Scilab implementation of a greedy algorithm for helping on teaching this subject.
